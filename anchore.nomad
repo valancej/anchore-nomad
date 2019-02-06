@@ -1,4 +1,3 @@
-
 job "anchore" {
   datacenters = ["dc1"]
   type = "service"
